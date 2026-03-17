@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kollabathula Rohan</h1>
-<h3 align="center">A passionate Fullstack developer and</h3>
+<h1 align="center">Hi 👋, I am Kollabathula Rohan</h1>
+<h3 align="center">A passionate Developer | 2027 Graduate in CSE- AI&ML</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NCC Attendance App](https://github.com/Rohankollabathula67/NCC-ATTENDANCE-APP.git)
+-  I’m currently working on [NCC Attendance App](https://github.com/Rohankollabathula67/NCC-ATTENDANCE-APP.git)
 
-- 🌱 I’m currently learning **PyTorch, Kera, TensorFlow**
+-  I’m currently learning **PyTorch, Kera, TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://rohankollabathula67.github.io/myportfolio/](https://rohankollabathula67.github.io/myportfolio/)
 
-- 📫 How to reach me **rohankollabathula13@gmail.com**
+-  How to reach me **rohankollabathula13@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Q8njBR-Ns8qg7krBU5KzRQzp8YlFUNv/view](https://drive.google.com/file/d/11Q8njBR-Ns8qg7krBU5KzRQzp8YlFUNv/view)
 
@@ -17,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohankollabathula1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohankollabathula1306" height="30" width="40" /></a>
 <a href="https://instagram.com/raw_with_rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raw_with_rohan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rohankollabathula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohankollabathula" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@rohankollabathula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohankollabathula" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/533249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="533249" height="30" width="40" /></a>
 </p>
 
