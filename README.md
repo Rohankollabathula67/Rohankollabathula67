@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rohankollabathula67.github.io/myportfolio/]([https://rohankollabathula67.github.io/myportfolio/](https://rohankollabathula67.github.io/react-portfolio/))
 
--  How to reach me **rohankollabathula13@gmail.com**
+-  How to reach me **rohankollabathula13@zohomail.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Q8njBR-Ns8qg7krBU5KzRQzp8YlFUNv/view](https://drive.google.com/file/d/11Q8njBR-Ns8qg7krBU5KzRQzp8YlFUNv/view)
 
