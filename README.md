@@ -6,7 +6,7 @@
 
 -  I’m currently learning **PyTorch, Kera, TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://rohankollabathula67.github.io/myportfolio/](https://rohankollabathula67.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [https://rohankollabathula67.github.io/myportfolio/]([https://rohankollabathula67.github.io/myportfolio/](https://rohankollabathula67.github.io/react-portfolio/))
 
 -  How to reach me **rohankollabathula13@gmail.com**
 
